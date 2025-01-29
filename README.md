@@ -1,6 +1,8 @@
 # animated-blob
 A three.js blob, animated with a custom shader material. The blob has several properties that can be customized for its appearance and animation.
 
+Live Demo: https://knowercoder.github.io/animated-blob/
+
 ![animated-blob](https://github.com/user-attachments/assets/96b32acf-c7e0-4fb9-8fca-8ec09efa3a3a)
 
 
